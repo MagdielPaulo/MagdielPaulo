@@ -13,7 +13,7 @@
   <img align="center" alt="Magdiel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Magdiel-Python" height="30" width="100" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Magdiel-Python" height="30" width="100" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img align="center" alt="Magdiel-Python" height="30" width="100" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img align="right" alt="Magdiel-gif" height="150" style="border-radius:50px;" src=https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif>
 </div>
 
  ##
