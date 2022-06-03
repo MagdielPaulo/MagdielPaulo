@@ -1,4 +1,5 @@
-## Opa👋! Eu sou o Magdiel Paulo, estudante de ciências da computação!
+- 🦘Hi, I’m @MagdielPaulo
+- I'm a Computer Science student at Unit-AL 🦘
 <div align="center">
   <a href="https://github.com/MagdielPaulo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MagdielPaulo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
