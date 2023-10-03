@@ -1,23 +1,23 @@
-**👋 Olá, eu sou o Magdiel Paulo!**
+
 
 <div align="center">
-
+**👋 Olá, eu sou o Magdiel Paulo!**
 ### Sobre Mim
-- 🌍 Moro no Brasil.
-- 🎓 Formado em Ciência da Computação.
-- 🚀 Apaixonado por tecnologia e programação.
-- 🌱 Sempre em busca de aprender coisas novas.
+🌍 Moro no Brasil.
+🎓 Formado em Ciência da Computação.
+🚀 Apaixonado por tecnologia e programação.
+🌱 Sempre em busca de aprender coisas novas.
 
 ### 🛠 Tecnologias e Ferramentas
-- 💻 Linguagens: Python, Java.
-- 🌐 Web Development: HTML, CSS, Django.
-- 🎮 Desenvolvimento de Jogos: Unity.
-- 🛢️ Banco de Dados: MySQL, SQLite, PostgreSQL.
-- 🔧 Ferramentas: Git, VSCode.
+💻 Linguagens: Python, Java.
+🌐 Web Development: HTML, CSS, Django.
+🎮 Desenvolvimento de Jogos: Unity.
+🛢️ Banco de Dados: MySQL, SQLite, PostgreSQL.
+🔧 Ferramentas: Git, VSCode.
 
 ### 💼 Projetos
-- [Timer Pomodoro](https://github.com/MagdielPaulo/Chrono-Timer)
-- [Gerenciamento de Finanças](https://github.com/MagdielPaulo/finance_projeto)
+[Timer Pomodoro](https://github.com/MagdielPaulo/Chrono-Timer)
+[Gerenciamento de Finanças](https://github.com/MagdielPaulo/finance_projeto)
 
 </div>
 
@@ -31,8 +31,8 @@
 <div align="center">
 
 ### 📫 Entre em Contato
-- LinkedIn: [Magdiel Paulo](https://www.linkedin.com/in/magdiel-paulo-688003207/)
-- Email: magdielpaulopy@gmail.com
+LinkedIn: [Magdiel Paulo](https://www.linkedin.com/in/magdiel-paulo-688003207/)
+Email: magdielpaulopy@gmail.com
 
 </div>
 
