@@ -17,7 +17,7 @@
 - [Timer Pomodoro](https://github.com/MagdielPaulo/Chrono-Timer)
 - [Gerenciamento de Finanças](https://github.com/MagdielPaulo/finance_projeto)
 
-### 📊 Atividade no GitHub
+### 📊 GitHub Stats
 [![Magdiel's GitHub Activity](https://github-readme-stats.vercel.app/api?username=MagdielPaulo&show_icons=true&theme=radical)](https://github.com/MagdielPaulo)
 
 ### 📫 Entre em Contato
