@@ -9,7 +9,6 @@
 ### 🛠 Tecnologias e Ferramentas
 - 💻 Linguagens: Python, Java.
 - 🌐 Web Development: HTML, CSS, Django.
-- 🎮 Desenvolvimento de Jogos: Unity.
 - 🛢️ Banco de Dados: MySQL, SQLite, PostgreSQL.
 - 🔧 Ferramentas: Git, VSCode.
 
