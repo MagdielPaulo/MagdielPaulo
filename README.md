@@ -12,6 +12,8 @@
 
 <br clear="both">
 
+<h3 align="left">Tools:</h3>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="40" width="52" alt="django logo" />
