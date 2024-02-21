@@ -1,10 +1,5 @@
-
-
-<div align="center">
-  <img src="" width="0px" />
-</div>
-
-### 
+<img align="right" height="408" src="https://github.com/jhonataT/jhonataT/assets/51134324/b883e41a-4401-4536-a841-f51c0f44e562](https://github.com/MagdielPaulo/MagdielPaulo/assets/81927049/be0480de-2029-4574-a5f0-9efcaefdde15)"  />
+ 
 
 <h1 align="left">Magdiel Paulo<br>Software Developer</h1>
 
