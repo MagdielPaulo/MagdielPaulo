@@ -1,4 +1,4 @@
-<img align="right" height="408" src="https://github.com/MagdielPaulo/MagdielPaulo/assets/81927049/be0480de-2029-4574-a5f0-9efcaefdde15"  />
+<img align="right" height="308" src="https://github.com/MagdielPaulo/MagdielPaulo/assets/81927049/be0480de-2029-4574-a5f0-9efcaefdde15"  />
  
 
 <h1 align="left">Magdiel Paulo<br>Software Developer</h1>
