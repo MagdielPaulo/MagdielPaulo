@@ -2,7 +2,7 @@
 
 ### 
 
-<h1 align="left">Magdiel Paulo<br>Software Engineer</h1>
+<h1 align="left">Magdiel Paulo<br>Software Developer</h1>
 
 ### 
 
