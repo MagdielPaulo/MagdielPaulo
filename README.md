@@ -1,5 +1,8 @@
 
-<img align="right" height="408" src=""/>
+
+<div align="center">
+  <img src="" width="0px" />
+</div>
 
 ### 
 
