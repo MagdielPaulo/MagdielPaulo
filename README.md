@@ -5,7 +5,7 @@
 
 
 
-<p align="left">PT-BR<br><br>Sou desenvolvedor de software apaixonado por criar soluções inovadoras e escaláveis. Com 22 anos e 2 anos de Experiência, estou sempre buscando novos desafios para aprimorar minhas habilidades e aprender tecnologias atuais.<br><br>Minhas principais habilidades Stacks: Python, Java, Django, MySQL e outras tecnologias relevantes.<br></br> Back-end: Amplo conhecimento em desenvolvimento back-end, com experiência no uso de APIs robustas e eficientes.<br></br> Front-end: Dedicação em aprender mais sobre o front-end, permitindo-me construir aplicações completas de ponta a ponta.<br><br>Meu objetivo: Me tornar um desenvolvedor Full Stack completo e versátil, capaz de criar soluções completas e de alta qualidade para os desafios do mundo real!</p>
+<p align="left">PT-BR<br><br>Sou desenvolvedor de software Jr. apaixonado por criar soluções inovadoras e escaláveis. Com 22 anos e 2 anos de Experiência, estou sempre buscando novos desafios para aprimorar minhas habilidades e aprender tecnologias atuais.<br><br>Minhas principais habilidades Stacks: Python, Java, Django, MySQL e outras tecnologias relevantes.<br></br> Back-end: Amplo conhecimento em desenvolvimento back-end, com experiência no uso de APIs robustas e eficientes.<br></br> Front-end: Dedicação em aprender mais sobre o front-end, permitindo-me construir aplicações completas de ponta a ponta.<br><br>Meu objetivo: Me tornar um desenvolvedor Full Stack completo e versátil, capaz de criar soluções completas e de alta qualidade para os desafios do mundo real!</p>
 
 ### 
 
