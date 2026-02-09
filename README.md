@@ -1,4 +1,5 @@
-#  Magdiel Paulo
+# <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00F2FF&center=true&vCenter=true&width=435&lines=MAGDIEL+PAULO;FULL+STACK+DEVELOPER;" alt="Typing SVG" /></p>
+
 ### De "menino do TI" ao Desenvolvedor Full Stack! 🚀
 
 <p align="left">
