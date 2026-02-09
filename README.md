@@ -2,8 +2,8 @@
 
 De menino do TI ao Desenvolvedor Full Stack !
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/magdiel-paulo)
-[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:magdiel.paulo@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magdiel-paulo-688003207/)
+[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:magdielpaulodev@gmail.com.com)
 [![Portfólio](https://img.shields.io/badge/Portfólio-Site-111?style=flat&logo=vercel&logoColor=white)](https://magdielpaulo.dev)
 
 ---
