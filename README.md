@@ -1,4 +1,4 @@
-# 👨‍💻 Magdiel Paulo
+#  Magdiel Paulo
 ### De "menino do TI" ao Desenvolvedor Full Stack! 🚀
 
 <p align="left">
