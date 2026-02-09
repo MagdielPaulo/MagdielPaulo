@@ -2,7 +2,7 @@
 ### De "menino do TI" ao Desenvolvedor Full Stack! 🚀
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/magdiel-paulo/">
+  <a href="https://www.linkedin.com/in/magdiel-paulo-688003207/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
   <a href="mailto:magdielpaulodev@gmail.com.com">
