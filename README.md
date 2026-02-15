@@ -1,6 +1,6 @@
 # <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00F2FF&center=true&vCenter=true&width=435&lines=MAGDIEL+PAULO;FULL+STACK+DEV;" alt="Typing SVG" /></p>
 
-### De "menino do TI" ao Desenvolvedor Full Stack! 🚀
+
 
 <p align="left">
   <a href="https://www.linkedin.com/in/magdiel-paulo-688003207/">
