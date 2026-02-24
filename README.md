@@ -38,5 +38,5 @@
 
 ###  Loading...
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZpa2JlY3V2ZHd3dGFpc2drZzBtaW02OGxpa3V3c3MxMWlsZWhxOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QtZSl6mcqfmvCBI2cb/giphy.gif" width="380" alt="Frieren Anime Character">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG5pY3lxbXRpaDl1c3drbDA1N25mbGNxMTR2dGN6cGZoY3JyZGtqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i2oa3suVo6JrtmeQiW/giphy.gif" width="380" alt="Frieren Anime Character">
 </p>
