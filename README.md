@@ -14,11 +14,11 @@
 const magdiel = {
   alias:    "EXT3",
   role:     "Full Stack Developer",
-  location: "Maceió, AL — Brasil",
+  location: "Maceió, AL — Brazil",
 
   education: {
-    graduation: "Bacharel em Ciência da Computação",
-    postgrad:   "Desenvolvimento Full Stack (em andamento)",
+    graduation: "B.S. in Computer Science",
+    postgrad:   "Full Stack Development (in progress)",
   },
 
   currentlyLearning: ["AWS Cloud Practitioner", "System Design"],
