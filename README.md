@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/magdiel-paulo/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="linkedin" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:magdielpaulodev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="35" alt="email" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/MagdielPaulo" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="35" alt="github" /></a>
+  <a href="https://www.linkedin.com/in/magdiel-paulo/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="linkedin" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:magdielpaulodev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="35" alt="email" />
 </p>
 
 ---
